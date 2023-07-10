@@ -1,6 +1,6 @@
-0x01. Python - Async
+# 0x01. Python - Async
 
-Resources
+# Resources 
 Study:
 
 - [Async IO in Python: A Complete Walkthrough](https://intranet.alxswe.com/rltoken/zYkXScziW1D5rNdNEvObjQ)
