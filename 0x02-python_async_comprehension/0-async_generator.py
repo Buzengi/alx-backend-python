@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module provides an asynchronous generator function that yields a
+Module provides an asynchronous generator function that yields a
 random float between 0 and 10 for a total of 10 iterations.
 """
 import asyncio

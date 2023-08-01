@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module provides an asynchronous function that measures the runtime
+Module provides an asynchronous comph function that measures the runtime
 of running 4 instances of the async_comprehension function:
 '1-async_comprehension' module
 """
@@ -12,7 +12,7 @@ async_comprehension = using('1-async_comprehension').async_comprehension
 
 async def measure_runtime() -> float:
     """
-    Asynchronous function that measures and returns the runtime of
+    Asynchronous function that measures & returns the runtime of
     running 4 instances of the async_comprehension function.
 
     Returns:
